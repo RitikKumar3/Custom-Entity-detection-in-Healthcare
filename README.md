@@ -39,7 +39,7 @@ This project focuses on processing and analyzing medical text data to identify d
 ## Problem Statement:
 The goal is to develop a custom NER model to extract disease names and their treatments from medical text data. The output should be a structured format (e.g., dictionary or table) listing diseases and their probable treatments.
 
-## Dataset
+## Dataset:
 The datasets provided for this project are:
 
 train_sent: Training sentences.
